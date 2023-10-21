@@ -1,0 +1,97 @@
+[
+    {
+        "Name":"Taylor Shirt",
+        "Des":"Short-sleeved ribbed shirt", 
+        "Size": "S",
+        "Price": 15,
+        "Category": "Shirts"
+    }, 
+
+    {
+        "Name":"Nicki Shirt",
+        "Des":"Long Sleeved Shirt with frills",
+        "Size": "L",
+        "Price": 17,
+        "Category": "Shirts"
+    }, 
+
+    {
+        "Name":"Tate Shirt",
+        "Des":"Oversized Hockey Jersey",
+        "Size": "L",
+        "Price": 17,
+        "Category": "Shirts, Sports"
+    }, 
+
+    {
+        "Name":"Bella Shirt",
+        "Des":"Crop Top",
+        "Size": "M",
+        "Price": 16,
+        "Category": "Shirts"
+    }, 
+
+    {
+        "Name":"Britney Skirt",
+        "Des":"Silk Skirt",
+        "Size": "M",
+        "Price": 23,
+        "Category": "Skirts/Dress"
+    },
+
+    {
+        "Name":"Selena Skirt",
+        "Des":"Maxi Skirt",
+        "Size": "L",
+        "Price": 25,
+        "Category": "Skirts/Dress"
+    }, 
+
+    {
+        "Name":"Ariana Dress",
+        "Des":"Ribbed Dress",
+        "Size": "S",
+        "Price": 20,
+        "Category": "Skirts/Dress"
+    }, 
+
+    {
+        "Name":"Laura Dress",
+        "Des":"Cupcake Dress",
+        "Size": "M",
+        "Price": 23,
+        "Category": "Skirts/Dress"
+    }, 
+
+    {
+        "Name":"Laura Dress",
+        "Des":"Cupcake Dress",
+        "Size": "M",
+        "Price": 23,
+        "Category": "Skirts/Dress"
+    },
+
+    {
+        "Name":"Lana Jacket",
+        "Des":"Vintage Brown ",
+        "Size": "XL",
+        "Price": 30,
+        "Category": "Outerwear"
+    }, 
+
+    {
+        "Name":"Olivia Jacket",
+        "Des":"Black Leather ",
+        "Size": "L",
+        "Price": 27,
+        "Category": "Outerwear"
+    },
+
+    {
+        "Name":"Serena Leggings",
+        "Des":"Light Blue Leggings w/ Pockets ",
+        "Size": "M",
+        "Price": 15,
+        "Category": "Sports"
+    }
+]
